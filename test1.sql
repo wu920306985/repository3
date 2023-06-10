@@ -1,0 +1,1 @@
+select 字段名 from 表名;
